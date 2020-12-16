@@ -10,6 +10,8 @@ Dossier technique:
   - Dossier en pdf: https://github.com/Animus-Necandi/scrum.js.html5.css3.ABI/blob/main/dossier_technique/dossier_technique_IHM_groupe2.pdf
   - Modalité des choix CSS: https://github.com/Animus-Necandi/scrum.js.html5.css3.ABI/blob/main/dossier_technique/modalite_pratiques_css_groupe2.pdf
   - Synthèse finale: https://github.com/Animus-Necandi/scrum.js.html5.css3.ABI/blob/main/dossier_technique/vecuDevWebABIDL_groupe2.pdf
+  
+  
 Dans un premier temps, votre mission consiste à concevoir l'interface homme-machine, 
 c'est-à-dire concevoir le dialogue général du site et structurer les futures pages Web.
 
